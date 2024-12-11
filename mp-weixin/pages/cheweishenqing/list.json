@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#F37335",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "车位申请展示",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}

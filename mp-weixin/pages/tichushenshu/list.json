@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#F37335",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "提出申述展示",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
